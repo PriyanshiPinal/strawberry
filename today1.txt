@@ -1,0 +1,4 @@
+Artificial Intelligence
+Big data & Hadoop
+Hive
+Kafka
